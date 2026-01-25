@@ -12,12 +12,27 @@ Het Overlegplatform Associate degrees is opgericht in 2019 en biedt een platform
 
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Onze taak voor de website was vooral ,deze zo overzichtelijk en toegankelijk mogelijk maken
+
+Terwijl we deze voor zowel studenten als professionals optimaal houden qua layout en gerepresenteerde informatie.
+
+In deze sprint heb ik mij gefocuseerd op de ad talenten aangezien deze uniek worden uitgekozen door ad connect. 
+
+En aangezien ieder talent je naar een eigen pagina neemt voor extra info.
+
+Dit kan veel beter op een algemene pagina zodat de gebruiker de weg niet kwijt raakt.
+
+Ik heb dus elk genomineerd talent in een section gezet zodat je telkens een bij naam kan aanklikken. Als je deze dan aanklikt slide zijn card in met een naam, like button en kleine omschrijving.
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+Ik heb Uiteindelijk met javascript een like knop kunnen toevoegen en een hamburger menu 
+
+<img width="494" height="415" alt="Scherm­afbeelding 2026-01-25 om 15 47 04" src="https://github.com/user-attachments/assets/8ca467f2-2b1c-4c06-a7c8-e505a7d9cdc6" />
+
+Ook heb ik met keyframes gewerkt voor de slide en de like button
+
+<img width="410" height="425" alt="Scherm­afbeelding 2026-01-25 om 15 48 37" src="https://github.com/user-attachments/assets/9d174b99-4622-41e7-9570-002d5cac2d68" />
 
 ## Bronnen
 
