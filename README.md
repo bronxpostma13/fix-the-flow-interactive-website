@@ -34,6 +34,14 @@ Ook heb ik met keyframes gewerkt voor de slide en de like button
 
 <img width="410" height="425" alt="Scherm­afbeelding 2026-01-25 om 15 48 37" src="https://github.com/user-attachments/assets/9d174b99-4622-41e7-9570-002d5cac2d68" />
 
+
+### User interaction
+
+Ik heb de like button ontworpen zodat mensen waardering kunnen geven aan de ad talenten die voor hun iets extra's hebben.
+Zo kan dit voor de talenten positief werken en het kan mensen laten zien dat als je verliest het niet gelijk betekent dat je slecht betn. 
+
+Ik heb deze uiteindelijk midden boven bij de cards gezet zodat die net snel te missen is. En tergelijkertijd staat hij dan mooi symmetrisch. Voor de rest heeft het hartje nu een mooie ruimte om te groeien als je hem indrukt.
+
 ## Bronnen
 
 ## Licentie
